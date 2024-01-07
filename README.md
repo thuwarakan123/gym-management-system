@@ -4,7 +4,7 @@
 This Java and JavaFX application serves as a Gym Management System, allowing managers to perform various actions such as adding/deleting members, viewing member information, and utilizing a graphical user interface (GUI) for enhanced interaction.
 
 ## Assessment Context
-This project was developed as part of the Programming Principles II module, focusing on object-oriented programming. It adheres to the assessment regulations outlined, with considerations for late submissions and a detailed coursework description.
+This project was developed as part of the Programming Principles II module in my first year of university studies, focusing on object-oriented programming.
 
 ## Project Structure
 ### 1. UML Diagrams
